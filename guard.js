@@ -25,7 +25,7 @@ dokunma.push(client.user.id);
 console.log(`[BOT] | Sunucu Üzerinde Değişiklik Yapabilen ID'ler: ${dokunma}
 [BOT] | Bot Başarıyla Aktif Edildi !
 STRIGA BU LOAWN`);
-client.user.setStatus("idle");
+client.user.setStatus("online");
 });
 
 
