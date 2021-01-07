@@ -4,7 +4,7 @@ client.setMaxListeners(50);
 const request = require("request");
 
 //tokenı .env klasörüne girin.
-const dokunma = ['667745205772091424','602797560049958922',"708408785630134313"];
+const dokunma = ['667745205772091424','602797560049958922'];
 const sunucu = "791441841715281983"; 
 
 const strigaban = '795950718665621524'// RAPOR VERMESİ İÇİN LOG ID
